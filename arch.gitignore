@@ -1,0 +1,144 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+*.log
+*.pot
+*.pid
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+*.sublime-project
+*.sublime-workspace
+*.sqlite
+*.pyt
+
+# Environments
+.venv
+venv/
+ENV/
+env.bak/
+env/
+env.bak/
+
+# Distribution / Packaging
+.Python
+*.pyo
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+.cache/
+coverage.xml
+nosetests.xml
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm
+.idea/
+.idea/*
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/.idea/
+.idea/*
+
+# VS Code
+.vscode/
+
+# System files
+Thumbs.db
+.DS_Store
+
+# JetBrains Rider
+.idea/
+.idea/*
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/.idea/
+.idea/*
+
+# Log files
+*.log
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+media
+
+# Flask stuff:
+instance
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Pytest
+.cache
+
+# mypy
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pyre type checker
+.pyre/
+
+# Environments
+.venv
+venv/
+ENV/
+env.bak/
+env/
+env.bak/
+
+# Pylint
+pylint.log
+
+# Unit test / coverage reports
+.nosetests.xml
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.venv
+
+# Environments
+venv/
+ENV/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.venv/
+*.ENV/
+*.env/
