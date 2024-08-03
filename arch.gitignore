@@ -1,6 +1,4 @@
 # Python
-*.idx/
-*.nix
 *.py[cod]
 __pycache__/
 *.so
